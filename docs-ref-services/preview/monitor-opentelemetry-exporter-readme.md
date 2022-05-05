@@ -1,12 +1,10 @@
 ---
 title: Azure Monitor OpenTelemetry Exporter client library for Java
 keywords: Azure, java, SDK, API, azure-monitor-opentelemetry-exporter, monitor
-author: maggiepint
-ms.author: magpint
+author: scbedd
+ms.author: scbedd
 ms.date: 11/17/2021
 ms.topic: reference
-ms.prod: azure
-ms.technology: azure
 ms.devlang: java
 ms.service: monitor
 ---
@@ -153,13 +151,13 @@ This project has adopted the [Microsoft Open Source Code of Conduct][coc]. For m
 [Code of Conduct FAQ][coc_faq] or contact [opencode@microsoft.com][coc_contact] with any additional questions or comments.
 
 <!-- LINKS -->
-[jdk]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
+[jdk]: /java/azure/jdk/
 [samples]: https://github.com/Azure/azure-sdk-for-java/blob/azure-monitor-opentelemetry-exporter_1.0.0-beta.5/sdk/monitor
 [source_code]: https://github.com/Azure/azure-sdk-for-java/blob/azure-monitor-opentelemetry-exporter_1.0.0-beta.5/sdk/monitor
 [azure_subscription]: https://azure.microsoft.com/free/
-[api_reference_doc]: https://docs.microsoft.com/azure/azure-monitor/overview
+[api_reference_doc]: /azure/azure-monitor/overview
 [package_mvn]: https://mvnrepository.com/artifact/com.azure/opentelemetry-exporters-azuremonitor
-[product_documentation]: https://docs.microsoft.com/azure/azure-monitor/overview
+[product_documentation]: /azure/azure-monitor/overview
 [azure_cli]: https://docs.microsoft.com/cli/azure
 [azure_portal]: https://portal.azure.com
 [azure_identity]: https://github.com/Azure/azure-sdk-for-java/tree/azure-monitor-opentelemetry-exporter_1.0.0-beta.5/sdk/identity/azure-identity

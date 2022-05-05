@@ -1,14 +1,12 @@
 ---
 title: Azure Monitor query client library for Java
 keywords: Azure, java, SDK, API, azure-monitor-query, monitor
-author: ramya-rao-a
-ms.author: ramyar
+author: scbedd
+ms.author: scbedd
 ms.date: 09/10/2021
 ms.topic: reference
-ms.prod: azure
-ms.technology: azure
 ms.devlang: java
-ms.service: monitor
+ms.service: azure-monitor
 ---
 
 # Azure Monitor query client library for Java - Version 1.0.0-beta.4 
@@ -431,9 +429,9 @@ comments.
 
 [azure_subscription]: https://azure.microsoft.com/free/java
 
-[jdk_link]: https://docs.microsoft.com/java/azure/jdk/?view=azure-java-stable
+[jdk_link]: /java/azure/jdk/?view=azure-java-stable
 
-[product_documentation]: https://docs.microsoft.com/azure/azure-monitor/overview
+[product_documentation]: /azure/azure-monitor/overview
 
 [log_levels]: https://github.com/Azure/azure-sdk-for-java/blob/azure-monitor-query_1.0.0-beta.4/sdk/core/azure-core/src/main/java/com/azure/core/util/logging/ClientLogger.java
 

@@ -1,8 +1,8 @@
 ---
 title: 
 keywords: Azure, java, SDK, API, azure-media-videoanalyzer-edge, videoanalyzer
-author: joshfree
-ms.author: jfree
+author: scbedd
+ms.author: scbedd
 ms.date: 04/30/2022
 ms.topic: reference
 ms.devlang: java
